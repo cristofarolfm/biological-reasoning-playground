@@ -1,0 +1,17 @@
+name: bio-reasoning
+channels: [conda-forge, bioconda]
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scikit-learn
+  - matplotlib
+  - scanpy
+  - anndata
+  - jupyterlab
+  - biopython
+  - pip
+  - pip:
+      - torch
+      - transformers
+      - einops

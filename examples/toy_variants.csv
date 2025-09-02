@@ -1,0 +1,5 @@
+gene,hgvs_c,hgvs_p,zygosity,pmids,allele_freq,impact
+TP53,c.743G>A,p.R248Q,het,"PMID:20301579;PMID:23041574",0.00001,missense
+PTEN,c.389G>T,p.C130F,het,"PMID:9241270",0.00002,missense
+BRCA1,c.5266dupC,p.Q1756Pfs*74,het,"PMID:8596316",0.000001,frameshift
+GJB2,c.35delG,p.G12Vfs*2,hom,"PMID:9886572",0.02,frameshift
